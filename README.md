@@ -2,7 +2,7 @@
 
 ## 📁 Overview
 
-This repository contains practical notebooks for working with **CSV, JSON, XML, and Excel (XLS/XLSX)** data formats using Python.
+This repository contains practical notebooks for working with CSV, JSON, XML, and Excel (XLS/XLSX) data formats using Python, developed as part of coursework for the Data Wrangling subject.
 
 It demonstrates multiple libraries and approaches for reading, processing, and analyzing structured data.
 
